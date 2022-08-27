@@ -1,8 +1,50 @@
-![image](https://img.shields.io/badge/tailwind-Rode.com-lightgrey)
+# _Hello I'm AMAR_
+
+## What I have learn ? 
+
+- HTML 5 Tags and Elements
+- CSS 3 Properties and usages of position 
+- cards
+- responsiveness
+- Flex
+- media queries
+- Tailwind* {TailWind makes life easy.}
+  
+## Estimated time I took to complete this
+    - 14 and a half hour
 
 
-## Paytm website clone using tailwind  [live Link](https://rode-clone-tailwind.netlify.app/)
+![image](./imgs/img1.png)
 
-**Name:** Avishkar Vichare
+![image](./imgs/img2.png)
 
-**The project took ***15 Hours*** to complete.** 
+![image](./imgs/img3.png)
+
+![image](./imgs/img4.png)
+
+![image](./imgs/img5.png)
+
+![image](./imgs/img6.png)
+
+
+
+## _Here Is What I'm Working On👨‍💻_
+
+  💻 I’m currently learning  ...<strong>Full Stack Javascript Web Developer By [Hitesh Choudhary](https://github.com/hiteshchoudhary).🔥✨🚀</strong>
+
+ 
+## 🤝 _Connect With Me:_  
+
+ <a href= "https://www.linkedin.com/in/amar123/">
+<img src=https://img.shields.io/badge/linkedin-2340B783.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/amardeveloper" target="_blank">
+<img src=https://img.shields.io/badge/github-2340B783.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/amarsobilal" target="_blank">
+<img src=https://img.shields.io/badge/instagram-2340B783.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+
+ ## _Visitors Count_<br>
+  <img src="https://profile-counter.glitch.me/amardeveloper/count.svg" />
